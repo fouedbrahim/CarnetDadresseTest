@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: theXuser
- * Date: 20/10/2016
- * Time: 16:44
- */
+
 namespace CarnetBundle\Form;
 
 use Symfony\Component\Form\AbstractType;
